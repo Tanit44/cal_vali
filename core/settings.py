@@ -25,7 +25,7 @@ SECRET_KEY = 'i4bu=ab-%z6l-sto(g5-2k=8_01njc3*mgswp79n#3_@9&dyta'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'cal-vali.herokuapp.com']
 
 
 # Application definition
