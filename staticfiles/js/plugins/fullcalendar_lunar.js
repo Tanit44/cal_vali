@@ -593,7 +593,7 @@
       lkey = M + '月' + D;
     var arRslt = [];
     if (this.lNextMonth == '正' && D == (this.isBigMonth ? '三十' : '廿九')) {
-      arRslt.push('t,วันส่งท้ายปีเก่าต้อนรับปีใหม่(ฉือซุ่ยไป้เหนียน)');
+      arRslt.push('t,ฉือซุ่ยไป้เหนียนจู้โซ่ว)');
     }
     if (FESTIVAL.w[wkey]) {
       arRslt = arRslt.concat(FESTIVAL.w[wkey].split('|'));
